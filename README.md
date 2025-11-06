@@ -2,4 +2,4 @@
 Practice collaboration
 
 Author: Zan Song
-BU
+BU (Boston University)
